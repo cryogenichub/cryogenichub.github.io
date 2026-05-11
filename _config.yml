@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-minima: skin: dark
+minima: 
+  skin: dark
 title: Avoid McCarthy Hyundai of Lawrence Kansas
 description: Avoid McCarthy Hyundai of Lawrence Kansas
